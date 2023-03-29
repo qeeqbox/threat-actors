@@ -63,3 +63,9 @@ Low technical skills
 ### Red hat
 - Individuals who use their technical skills to attack threat actors
 - They use unethical ways
+
+## id
+5c5975ab-eb59-40e1-94ef-7fdec524f651
+
+## References
+- https://en.wikipedia.org/wiki/Threat_actor
