@@ -1,3 +1,6 @@
+## Threat Actors
+A threat actor is any person, group, or entity that could harm to the cyber realm
+
 ## Threat Actors Types
 ### Nation-State\Government-Sponsored
 - Espionage, this type is interested in stealing state\government secrets from businesses and government-run organizations
