@@ -18,8 +18,8 @@ This type is interested in stealing personal info from data-rich businesses and 
 #### Factors
 Profit
 #### Common TTPs
-ransomware
-phishing
+- ransomware
+- phishing
 ### Terrorist Groups
 This type is interested in sabotaging critical infrastructure
 #### Factors
